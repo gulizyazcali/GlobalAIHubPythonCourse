@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021  
+**Course Date:** 12.03.2021  
 **Name:** Gülizar  
 **Surname:** Yazçalı  
 **Email:** gyazcali@gmail.com  
